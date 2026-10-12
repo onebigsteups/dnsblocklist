@@ -1,0 +1,18 @@
+
+# Adult website blocklist
+
+# Pornhub
+pornhub.com
+www.pornhub.com
+
+# XVideos
+xvideos.com
+www.xvideos.com
+
+# Coed Cherry
+coedcherry.com
+www.coedcherry.com
+
+# Elite Babes
+elitebabes.com
+www.elitebabes.com
